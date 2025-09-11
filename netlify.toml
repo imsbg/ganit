@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://ganitabingya.netlify.app/open"
+  status = 301
+  force = true
